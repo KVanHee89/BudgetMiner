@@ -1,0 +1,9 @@
+{
+  "name": "budget-server",
+  "version": "0.0.0",
+  "description": "BudgetServer",
+  "main": "server.js",
+  "author": {
+    "name": "pitte"
+  }
+}
